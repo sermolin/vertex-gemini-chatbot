@@ -1,0 +1,5 @@
+streamlit
+watchdog
+langchain
+python-dotenv
+langchain-google-vertexai
