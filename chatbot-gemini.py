@@ -1,6 +1,7 @@
 # Source and attribution: Heiko Hotz https://github.com/marshmellow77/vertex-gemini/blob/main/chatbot-gemini.py
 # Source and attribution: https://sparkapps.net/building-a-gemini-pro-chatbot-with-googles-latest-model/
 
+import os
 from dotenv import load_dotenv
 import streamlit as st
 import vertexai
