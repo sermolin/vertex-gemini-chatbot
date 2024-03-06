@@ -1,6 +1,7 @@
 # Quickstart
 Source and attribution: https://sparkapps.net/building-a-gemini-pro-chatbot-with-googles-latest-model/<br>
-Source and attribution: Heiko Hotz https://github.com/marshmellow77/vertex-gemini/blob/main/chatbot-gemini.py
+Source and attribution: Heiko Hotz https://github.com/marshmellow77/vertex-gemini/blob/main/chatbot-gemini.py<br>
+IFR_10_prompt.rtf contains 10 multiple choice questions from IFR pilot exam. Use it to test Gemini's model accuracy. 
 
 # Using Gemini Pro via Google's Vertex APIs. 
 ## Assumptions:
